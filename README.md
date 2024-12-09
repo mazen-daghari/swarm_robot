@@ -222,8 +222,5 @@ This setup involves using ROS to send commands to real robots, leveraging the ex
 Licence (MIT)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Contact
--
-
-dagmazen@gmail.com
+Contact :dagmazen@gmail.com
 -
